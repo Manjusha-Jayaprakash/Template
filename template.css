@@ -1,0 +1,457 @@
+*{margin:0;padding:0}
+.head{
+    background-color: black;
+    width:100%;
+    height:70px;
+}
+.search{
+    background-image:url(./images/images/search-icon.png);
+    background-repeat: no-repeat;
+    background-position: 100px 10px 100px 10px;
+    width: 5%;
+    height:20px;
+    float:right;
+    margin: 20px; 
+    
+}
+.coffee{
+    background-image: url(./images/banner-bg.png);
+    width: 100%;
+    height:450px;
+    background-repeat: no-repeat;
+    float:left;
+    background-size: cover;   
+      
+}
+.contactus{
+    float: right;
+    position:static;
+    margin:20px;
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: large;
+}
+.services{
+    float:right;
+    position: static;
+    margin:21px;
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: large;
+}
+.gallery{
+    float:right;
+    position:static;
+    margin:22px;
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: large;
+}
+.aboutus{
+    float:right;
+    position:static;
+    margin:23px;
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: large;
+}
+.home{
+    float:right;
+    position: static;
+    margin:24px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large; 
+}
+.fontincoffee{
+    float:left;
+    position:static;
+    margin: 40px;
+    font-size:xx-large;
+}
+.learnmore{
+    float: left;
+    margin-top: 20px;
+    position: static;
+    font-size: small;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: large;
+}
+.learnmore:hover{
+    background-color: orangered;
+}
+.arrows{
+   width: 15%;
+    height: 50px;
+   margin-top: 100px;
+   margin-left: 600px;
+}
+.arrow1{
+    float:left;
+    position: relative;
+    width:40%; 
+    background-color: white;
+    font-size: x-large;
+    text-align: center;  
+}
+.arrow2{
+    float: right;
+    position:relative ;
+    width:40%; 
+    background-color: white;
+    font-size: x-large;
+    text-align: center;  
+}
+.arrow1:hover{
+    background-color: orangered;
+    color:white;
+}
+.arrow2:hover{
+    background-color: orangered;
+    color: white;
+}
+
+.total{
+    width: 94%;   
+    margin-left: 40px;
+    margin-right:40px;
+    height: 3000px;
+    background-color: white;
+}
+.aboutustotal{
+ width:100%;
+    height:1250px;
+}
+.aboutuscontent{
+   width: 45%;
+    height:450px;
+    margin-top: 300px;
+    float: left;
+}
+.aboutReadmore{
+    float: left;
+    margin-top: 40px;
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+.aboutReadmore:hover{
+    background-color: orangered;
+}
+.aboutpicture{
+    background-image: url(./images/images/about-img.png);
+    height:550px;
+    width: 55%;
+    background-size:cover;
+    background-repeat: no-repeat;
+    float: right;
+    margin-top: 200px;
+}
+.ourgallery{
+    height:1650px;
+    width: 100%;
+    background-color: white;
+}
+.gallerytext{
+    height:200px;
+    width:100%;
+}
+.row1gallery{
+    height: 400px;
+    width: 100%;
+}
+.img1{
+    height:400px;
+    width:30%;
+    float: right;
+    margin-right: 0;
+    background-image: url(./images/images/img-3.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.img2{
+    height:400px;
+    width:30%;
+    float:left;
+    margin-left: 0;
+    background-image: url(./images/images/img-1.png);
+    background-size:cover;
+    background-repeat: no-repeat;   
+}
+.img3{
+    height:400px;
+    width:30%;
+    float: right;
+    margin:0 60px;
+    background-image: url(./images/images/img-2.png);
+    background-size:cover;
+    background-repeat: no-repeat;  
+}
+.row2gallery{
+    height: 400px;
+    width: 100%;
+    margin-top: 60px;
+}
+.img4{
+    height:400px;
+    width:30%;
+    float:left;
+    margin-left: 0;
+    background-image: url(./images/images/img-4.png);
+    background-size:cover;
+    background-repeat: no-repeat;  
+}
+.img5{
+    height:400px;
+    width:30%;
+    float:left;
+    margin-left:66px;
+    background-image: url(./images/images/img-5.png);
+    background-size:cover;
+    background-repeat: no-repeat;  
+}
+.img6{
+    height:400px;
+    width:30%;
+    float: right;
+    margin-right: 0;
+    background-image: url(./images/images/img-6.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.row3gallery{
+    height: 400px;
+    width: 100%;
+    margin-top: 60px;
+}
+.img7{
+    height:400px;
+    width:30%;
+    float:left;
+    margin-left: 0;
+    background-image: url(./images/images/img-7.png);
+    background-size:cover;
+    background-repeat: no-repeat; 
+}
+.img8{
+    height:400px;
+    width:30%;
+    float:left;
+    margin-left:66px;
+    background-image: url(./images/images/img-8.png);
+    background-size:cover;
+    background-repeat: no-repeat;  
+}
+.img9{
+    height:400px;
+    width:30%;
+    float: right;
+    margin-right: 0;
+    background-image: url(./images/images/img-9.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.Galleryseemore{
+    background-color: black;
+    height: 25px;
+    width: 150px;
+    margin-left: 560px;
+    margin-top: 50px;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: large;
+}
+.Galleryseemore:hover{
+    background-color: orangered;
+}
+.total2{
+    width: 94%;   
+    margin-left: 40px;
+    margin-right:40px;
+    height: 510px;
+}
+.service{
+    width:100%;
+    height: 510px;
+    margin-top: 80px;
+}
+.rowservices{
+    width:100%;
+    height:350px ;
+    margin-top: 50px; 
+}
+.imgservice1{
+    height:250px;
+    width:30%;
+    float:left;
+    margin-right: 0;
+    background-color:rgb(228, 89, 38);
+    color: white;
+}
+.imgservice1:hover{
+    background-color: white;
+    color: black;
+}
+.imgservice2{
+    height:250px;
+    width:30%;
+    float:right;
+    margin:0 ;
+    background-color:rgb(228, 89, 38);
+    color: white;
+}
+.imgservice2:hover{
+    background-color: white;
+    color: black;
+}
+.imgservice3{
+    height:250px;
+    width:30%;
+    float: right;
+    margin-right: 60px;
+    background-color:rgb(228, 89, 38);
+    color: white;
+}
+.imgservice3:hover{
+    background-color: white;
+    color: black;
+}
+.total3{
+    width: 94%;   
+    margin-left: 40px;
+    margin-right:40px;
+    height: 1600px;
+}
+.testimonial{
+    padding-top: 100px;
+    width: 100%;
+    height: 520px;
+}
+.monila{
+    width: 94%;
+    height:200px;
+    margin-left: 40px;
+margin-top: 40px;
+}
+.line1{
+    width: 3%;
+    height: 15px;
+    background-color:black;
+    border-radius: 25%;
+    margin-right: 45%;
+    float: right;
+margin-top: 40px;
+}
+.line2{
+    width: 3%;
+    height: 15px;
+    background-color:black;
+    border-radius: 25%;
+    margin-right: 1%;
+    float: right;
+    margin-top: 40px;
+}
+.line3{
+    width: 3%;
+    height: 15px;
+    background-color: black;
+    border-radius: 25%;
+    margin-right:1%;
+    float:right;
+    margin-top: 40px;
+}
+.last{
+    width: 100%;
+    height: 500px;
+
+}
+.name{
+    width: 50%;
+    height: 500px;
+    background-image:url(./images/images/img-9.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.name2{
+    width: 70%;
+height: 50px;
+background-color: white;
+border-radius: 40px;
+margin-left: 15%;
+float: left;
+margin-top: 6%;
+}
+.email{
+    width: 70%;
+    height: 50px;
+    background-color: white;
+    border-radius: 40px;
+    margin-left: 15%;
+    float: left;
+    margin-top: 4%;
+}
+.phoneno{
+    width: 70%;
+    height: 50px;
+    background-color: white;
+    border-radius: 40px;
+    margin-left: 15%;
+    float: left;
+    margin-top: 4%;
+}
+.message{
+    width: 70%;
+    height: 100px;
+    background-color: white;
+    border-radius: 40px;
+    margin-left: 15%;
+    float: left;
+    margin-top: 4%;
+}
+.send{
+    width: 20%;
+    height: 50px;
+    background-color:orangered;
+    border-radius: 40px;
+    margin-left: 40%;
+    float: left;
+    margin-top: 6%;
+    color:white;
+}
+.send:hover{
+    background-color: white;
+    color: black;
+}
+.final{
+    width:100%;
+    height: 450px;
+    background-color: black;
+    margin-top: 10px;
+}
+.finalabout{
+    width:20%;
+    height:250px;
+    float: left;
+    margin-top: 120px;
+    margin-left: 50px;
+}
+.finalmenu{
+    width:20%;
+    height:250px;
+    float: left;
+    margin-top: 120px;
+    margin-left: 50px;
+}
+.usefullink{
+    width:20%;
+    height:250px;
+    float: left;
+    margin-top: 120px;
+    margin-left: 50px;
+}
+.finalcontactus{
+    width:20%;
+    height:250px;
+    float: left;
+    margin-top: 120px;
+    margin-left: 50px;
+}

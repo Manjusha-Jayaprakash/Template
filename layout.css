@@ -1,0 +1,152 @@
+*{margin:0;padding:0}
+.red{
+    width:99.7%;
+    height: 150px;
+    background-color: red;
+    border:2px solid black;
+}
+.orange{
+    width:50%;
+    height: 149px;
+    background-color: orange;
+    margin:0px 50px 0px 0px;
+    float: right;
+    border:2px solid black;
+}
+.blue{
+    width: 15%;
+    height: 70px;
+    background-color:aqua;
+    margin: 30px 200px 50px ;
+    float:right ; border:2px solid black;
+}
+.violet{
+    width:40%;
+    height:145px;
+    background-color: blueviolet;
+    margin: 0px 0px;
+    float: right; border:2px solid black;
+}
+.green{
+    width: 95%;
+    height:59px;
+    background-color: greenyellow;
+    margin:10px; border:2px solid black;
+}
+.sandal1{
+    width:35%;
+    height: 49px;
+    background-color: palegoldenrod;
+margin: 5px;
+float:left; border:2px solid black;
+}
+.sandal2{
+    width: 55%;
+    height:49px;
+    background-color: palegoldenrod;
+    margin: 5px;
+    float: right;    border:2px solid black;
+}
+.gray{
+    width:99.7%;
+    height: 190px;
+    background-color:darkgray; border:2px solid black;
+}
+.rose{
+    width: 90%;
+    height:185px;
+    background-color: violet;
+    margin: 0px 75px; border:2px solid black;
+}
+.brown{
+    width:45%;
+    height: 175px;
+    background-color:peru;
+    margin: 2px; border:2px solid black;
+}
+.blu{
+    width: 90%;
+    height: 70px;
+    background-color:aqua;
+    margin: 40px 20px 30px 10px ;
+    float:left; border:2px solid black;
+}
+.darkorange{
+    width: 99.7%;
+    height: 200px;
+    background-color: darkorange; border:2px solid black;
+}
+.palegoldenrod{
+    width: 90%;
+    height: 190px;
+    background-color: palegoldenrod;
+    margin:0 75px ; border:2px solid black;
+
+}
+.darkyorange{
+    width:30%;
+    height: 170px;
+    background-color: darkorange;
+    margin: 10px;
+   float: left; border:2px solid black;
+}
+.redd{
+    width: 80%;
+    height: 50px;
+    background-color: red;
+    margin: 10px 30px; border:2px solid black;
+}
+.darkgreen{
+    width: 80%;
+    height: 80px;
+    background-color:forestgreen;
+    margin:10px 30px; border:2px solid black;
+}
+.yellow{
+    width:20%;
+    height:60px;
+    background-color: yellow;
+    margin: 4px 35px;
+    float: left;border:2px solid black;
+}
+.darkgray{
+    width: 99.7%;
+    height: 200px;
+    background-color: dimgrey;border:2px solid black;
+}
+.dimgray{
+    width:90%;
+    height:190px;
+    background-color: darkgray;
+    margin: 0 75px ;
+    border:2px solid black;
+}
+.bl1{
+    width: 20%;
+    height: 100px;
+    background-color:aqua; 
+    margin:40px 20px;
+    float: left;border:2px solid black;
+
+}
+.bl2{
+    width: 40%;
+    height: 90px;
+    background-color: aqua;
+    margin: 40px 20px;
+    float: right;border:2px solid black;
+}
+.darkred{
+    width:40%;
+    height:60px ;
+    background-color: red;
+    margin: 20px 10px;
+    float: left;border:2px solid black;
+}
+.violet2{
+    width:40%;
+    height: 60px;
+    background-color: blueviolet;
+    margin: 20px 10px;
+    float: right;border:2px solid black;
+}
